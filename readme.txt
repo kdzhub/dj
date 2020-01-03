@@ -1,2 +1,2 @@
-Git is a scend version control system.
-Git is free software glk.
+cloudes for ever one 
+Git is free software 
